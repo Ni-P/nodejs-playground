@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stages>
+	<stage id="1">
+		<text>stage 1</text>
+		<image>path1</image>
+		<button>clickme1</button>
+		<script>code1</script>
+	</stage>
+	<stage id="2">
+		<text>stage 2</text>
+		<image>path2</image>
+		<button>clickme2</button>
+		<script>code2</script>
+	</stage>
+</stages>
