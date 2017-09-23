@@ -1,1 +1,46 @@
-{"_declaration":{"_attributes":{"version":"1.0","encoding":"utf-8"}},"stages":{"stage":[{"_attributes":{"id":"1"},"text":{"_text":"stage 1"},"image":{"_text":"path1"},"button":{"_text":"clickme1"},"script":{"_text":"code1"}},{"_attributes":{"id":"2"},"text":{"_text":"stage 2"},"image":{"_text":"path2"},"button":{"_text":"clickme2"},"script":{"_text":"code2"}}]}}
+{
+  "_declaration": {
+    "_attributes": {
+      "version": "1.0",
+      "encoding": "utf-8"
+    }
+  },
+  "stages": {
+    "stage": [
+      {
+        "_attributes": {
+          "id": "1"
+        },
+        "text": {
+          "_text": "stage 1"
+        },
+        "image": {
+          "_text": "path1"
+        },
+        "button": {
+          "_text": "clickme1"
+        },
+        "script": {
+          "_text": "code1"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "2"
+        },
+        "text": {
+          "_text": "stage 2"
+        },
+        "image": {
+          "_text": "path2"
+        },
+        "button": {
+          "_text": "clickme2"
+        },
+        "script": {
+          "_text": "code2"
+        }
+      }
+    ]
+  }
+}
